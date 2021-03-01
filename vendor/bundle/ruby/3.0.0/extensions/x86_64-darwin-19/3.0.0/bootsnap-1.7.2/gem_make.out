@@ -1,0 +1,15 @@
+current directory: /Users/tagrag/work/rails_project/nollo/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.2/ext/bootsnap
+/Users/tagrag/.rbenv/versions/3.0.0/bin/ruby -I /Users/tagrag/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20210301-4456-mpm297.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tagrag/work/rails_project/nollo/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/tagrag/work/rails_project/nollo/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/tagrag/work/rails_project/nollo/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210301-4456-fak80z/bootsnap
