@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  root to: "home#index"
+  
+  # get 'nollo/index'
+  root to: "nollo#index"
 end
